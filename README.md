@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @bushraqurban
 
-I'm a **data scientist**, passionate about **research, artificial intelligence & academia**.
+I'm a **deep learning researcher**, passionate about **research, artificial intelligence & academia**.
 
 ## ⚡ I’m Looking to Collaborate on
 Open-source projects, data science competitions (e.g., Kaggle), and innovative AI applications. I’m especially interested in contributing to projects in the education sector.
