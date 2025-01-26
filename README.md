@@ -13,5 +13,9 @@ I’m interested in **Artificial Intelligence**, **data science**, and **researc
 - **Programming languages**: Python, SQL.
 - **Tools**: Jupyter Notebooks, VS Code, Docker, GitHub.
 
+## 💻 Visit My Work
+- GitHub: [https://github.com/bushraqurban/](https://github.com/bushraqurban/)
+- Kaggle: [https://www.kaggle.com/bushraqurban](https://www.kaggle.com/bushraqurban)
+
 ## 📣 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/bushraqurban/
