@@ -2,11 +2,6 @@
 
 I’m interested in **Artificial Intelligence**, **data science**, and **research-driven innovation**.
 
-## ⚡ I’m Looking to Collaborate on
-- **Open-source projects** that foster collaboration and community.
-- **Data science competitions** (like Kaggle) to tackle tough problems and improve models.
-- **AI applications** that drive change in industries like tech, business, and education.
-
 ## 💡 Skills & Expertise
 - **Machine Learning**: Deep learning, natural language processing, computer vision.
 - **Data Science**: Data wrangling, feature engineering, model deployment.
@@ -14,6 +9,7 @@ I’m interested in **Artificial Intelligence**, **data science**, and **researc
 - **Tools**: Jupyter Notebooks, VS Code, Docker, GitHub.
 
 ## 💻 Visit My Work
+- Portfolio: [https://bushraqurban.github.io/](https://bushraqurban.github.io/)
 - GitHub: [https://github.com/bushraqurban/](https://github.com/bushraqurban/)
 - Kaggle: [https://www.kaggle.com/bushraqurban](https://www.kaggle.com/bushraqurban)
 
